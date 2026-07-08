@@ -40,6 +40,3 @@ The cleaned, sanitized source transactional records from which all historical in
 * 📈 [Accidents_Analysis_Dashboard.xlsx](https://docs.google.com/spreadsheets/d/1eoRImHN0cQv1fgdVrFTH27Ao_gJyweU8/edit?usp=drive_link&ouid=108309553984817112672&rtpof=true&sd=true) - The core Microsoft Excel workbook (Hosted on Google Drive due to GitHub file size limits).
 * 🖼️ **Visual Assets** - Strategic high-fidelity previews embedded directly within the pipeline (`Dashboard.png`, `Report.png`, `Raw_Data.png`).
 * 📝 `README.md` - Technical project documentation.
-
----
-*Generated as part of my Advanced Data Analytics portfolio.*
